@@ -1,0 +1,24 @@
+Alice Johnson,Human Resources,101,MBA in HR,5.0,B,65000
+Robert Smith,Human Resources,102,BBA HR,3.5,C,52000
+Sophie Turner,Human Resources,103,MBA in HR,6.0,A,78000
+Liam Brown,Finance,104,B.Com,7.5,A,80000
+Grace Davis,Finance,105,M.Com,2.0,C,48000
+Noah Wilson,Finance,106,CA,9.0,A,90000
+Catherine Lee,IT,107,BS Computer Science,3.0,C,55000
+Frank Miller,IT,108,BS Software Engineering,6.0,A,78000
+Oliver Harris,IT,109,MS Computer Science,8.0,A,92000
+Mia Patel,IT,110,BS Information Technology,4.0,B,64000
+David Wilson,Marketing,111,MBA Marketing,4.5,B,60000
+Jack Anderson,Marketing,112,BBA Marketing,4.0,B,58000
+Nora Collins,Marketing,113,MBA Marketing,6.0,A,72000
+Emma Brown,Research & Development,114,MS Physics,10.0,A,95000
+Lucas Adams,Research & Development,115,PhD Chemistry,12.0,A,105000
+Ava Martinez,Research & Development,116,MS Biotechnology,8.0,B,87000
+Henry Clark,Administration,117,BBA,8.0,A,85000
+Ella Scott,Administration,118,MBA Management,5.5,B,70000
+Isabella Garcia,Customer Support,119,BA English,1.5,D,40000
+Benjamin Young,Customer Support,120,BA Communications,2.5,C,45000
+Harper Lewis,Customer Support,121,BA Psychology,3.0,B,50000
+Ethan Wright,Sales,122,BBA Marketing,5.0,B,62000
+Amelia Green,Sales,123,B.Com Marketing,3.0,C,52000
+Daniel Thompson,Sales,124,MBA Sales,7.0,A,83000

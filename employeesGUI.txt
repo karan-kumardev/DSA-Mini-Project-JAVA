@@ -1,0 +1,50 @@
+101,Alice Johnson,Human Resources,MBA in HR,5.0,B,65000
+102,Robert Smith,Human Resources,BBA HR,3.5,C,52000
+103,Sophie Turner,Human Resources,MBA in HR,6.0,A,78000
+104,Liam Brown,Finance,B.Com,7.5,A,80000
+105,Grace Davis,Finance,M.Com,2.0,C,48000
+106,Noah Wilson,Finance,CA,9.0,A,90000
+107,Catherine Lee,IT,BS Computer Science,3.0,C,55000
+108,Frank Miller,IT,BS Software Engineering,6.0,A,78000
+109,Oliver Harris,IT,MS Computer Science,8.0,A,92000
+110,Mia Patel,IT,BS Information Technology,4.0,B,64000
+111,David Wilson,Marketing,MBA Marketing,4.5,B,60000
+112,Jack Anderson,Marketing,BBA Marketing,4.0,B,58000
+113,Nora Collins,Marketing,MBA Marketing,6.0,A,72000
+114,Emma Brown,Research & Development,MS Physics,10.0,A,95000
+115,Lucas Adams,Research & Development,PhD Chemistry,12.0,A,105000
+116,Ava Martinez,Research & Development,MS Biotechnology,8.0,B,87000
+117,Henry Clark,Administration,BBA,8.0,A,85000
+118,Ella Scott,Administration,MBA Management,5.5,B,70000
+119,Isabella Garcia,Customer Support,BA English,1.5,D,40000
+120,Benjamin Young,Customer Support,BA Communications,2.5,C,45000
+121,Harper Lewis,Customer Support,BA Psychology,3.0,B,50000
+122,Ethan Wright,Sales,BBA Marketing,5.0,B,62000
+123,Amelia Green,Sales,B.Com Marketing,3.0,C,52000
+124,Daniel Thompson,Sales,MBA Sales,7.0,A,83000
+125,Steve,HR,B.COM,5.0,A,700000
+127,Wajood Ali,CS AI,Bachelors,0.0,A,40000
+101,Alice Johnson,Human Resources,MBA in HR,5.0,B,65000
+102,Robert Smith,Human Resources,BBA HR,3.5,C,52000
+103,Sophie Turner,Human Resources,MBA in HR,6.0,A,78000
+104,Liam Brown,Finance,B.Com,7.5,A,80000
+105,Grace Davis,Finance,M.Com,2.0,C,48000
+106,Noah Wilson,Finance,CA,9.0,A,90000
+107,Catherine Lee,IT,BS Computer Science,3.0,C,55000
+108,Frank Miller,IT,BS Software Engineering,6.0,A,78000
+109,Oliver Harris,IT,MS Computer Science,8.0,A,92000
+110,Mia Patel,IT,BS Information Technology,4.0,B,64000
+111,David Wilson,Marketing,MBA Marketing,4.5,B,60000
+112,Jack Anderson,Marketing,BBA Marketing,4.0,B,58000
+113,Nora Collins,Marketing,MBA Marketing,6.0,A,72000
+114,Emma Brown,Research & Development,MS Physics,10.0,A,95000
+115,Lucas Adams,Research & Development,PhD Chemistry,12.0,A,105000
+116,Ava Martinez,Research & Development,MS Biotechnology,8.0,B,87000
+117,Henry Clark,Administration,BBA,8.0,A,85000
+118,Ella Scott,Administration,MBA Management,5.5,B,70000
+119,Isabella Garcia,Customer Support,BA English,1.5,D,40000
+120,Benjamin Young,Customer Support,BA Communications,2.5,C,45000
+121,Harper Lewis,Customer Support,BA Psychology,3.0,B,50000
+122,Ethan Wright,Sales,BBA Marketing,5.0,B,62000
+123,Amelia Green,Sales,B.Com Marketing,3.0,C,52000
+124,Daniel Thompson,Sales,MBA Sales,7.0,A,83000
